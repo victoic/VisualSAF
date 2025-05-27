@@ -1,0 +1,11 @@
+data
+core/components/general_dl/detectors/deformable_detr/modules/ops/build
+**/__pycache__/
+**/*.pyc
+*.pth
+*.ckpt
+data/
+/core/components/general_dl/detectors/deformable-detr/ops/MultiScaleDeformableAttention.egg-info
+/core/components/general_dl/detectors/deformable-detr/ops/dist
+*.pyc
+core/__pycache__/base_model.cpython-310.pyc
